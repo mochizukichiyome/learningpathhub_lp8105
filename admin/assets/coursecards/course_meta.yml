@@ -1,0 +1,28 @@
+---
+## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
+### Hugo Template Metadata
+title: "ModernApps Ninja Learning Path Hub"
+date: "2021-03-22T23:30:03Z"
+draft: true
+# meta description
+description: "Central Repository for Hosting ModernApps Ninja Learning Paths"
+# course thumbnail
+image: "https://modernapps.ninja/learningpathhub_lp8105/admin/assets/images/learningpathhub_lp8105.jpg"
+# taxonomy
+tags: ["Tanzu Portfiolio"]
+# teacher
+teacher: "Ninja Admins"
+# duration
+duration: "0 Hours"
+# course fee
+fee: "Free!"
+# apply url
+apply_url: "https://modernapps.github.io/learningpathhub_lp8105"
+# type
+type: "course"
+### Extended Ninja Course Metadata
+content_id: lp8105
+course_short_title: learningpathhub
+course_navbar_title: Learning Path Hub
+course_repo_name: learningpathhub_lp8105
+---  
