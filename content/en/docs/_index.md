@@ -6,6 +6,12 @@ menu:
   main:
     weight: 20
 ---
+This site is host contents that are part of several independent and distinct learning paths, and is not intended for browsing, and may include content that is still under development.  
+
+To learn about ModernApps Ninja Learning Paths, please visit [https://modernapps.ninja](https://modernapps.ninja) where you will find direct links to each learning path that is currently active.
+
+In the Table of Contents Below, each entry represents a seperate and independent ModernApps Ninja Learning Path. Again it is recommended to find the learning path of interest to you, please visit [https://modernapps.ninja](https://modernapps.ninja), as while this repository may contain content that is under development, the catalog on the modernapps.ninja homepage will only list currently published and active content.  
+
   <!-- This commented section contains old text from the original template kept here as a reference
 
   {{% pageinfo %}} This is a placeholder page that shows you how to use this template site. {{% /pageinfo %}}
